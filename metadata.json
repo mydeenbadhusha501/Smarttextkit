@@ -1,0 +1,5 @@
+{
+  "name": "SmartTextKit",
+  "description": "A comprehensive suite of online text tools including Notepad, Word Counter, Case Converter, Space Remover, and AI-powered Image-to-Text OCR.",
+  "requestFramePermissions": []
+}
